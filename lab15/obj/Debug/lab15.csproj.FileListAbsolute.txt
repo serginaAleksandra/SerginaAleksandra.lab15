@@ -1,0 +1,10 @@
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\bin\Debug\lab15.exe.config
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\bin\Debug\lab15.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\bin\Debug\lab15.pdb
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.csprojAssemblyReference.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.Form1.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab15\lab15\lab15\obj\Debug\lab15.pdb
